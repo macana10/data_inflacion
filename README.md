@@ -11,6 +11,12 @@ Instalar las dependencias (es decir las librerias necesarias para que se ejecute
 pip install -r requirements.txt
 ```
 
+## Obtener token de API del BCRA
+
+Es fundamental obtener el token de la API del BCRA proveniente de este link <https://estadisticasbcra.com/api/documentacion>.
+Se registran con su mail y lo obtienen durante 365 días.
+
+
 ## Ejecutar el código
 
 ```sh
