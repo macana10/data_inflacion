@@ -30,7 +30,7 @@ def load(df: pd.DataFrame, file_path: str):
 def main():
     # URL de la API del BCRA para obtener datos de inflación
     api_url = "https://api.estadisticasbcra.com/"
-    token = "eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MDg4ODQ1NDQsInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJjYW5hbWF0aUBnbWFpbC5jb20ifQ.9sSLoYaZ9irmxaIfqj33JxhAPV0RflZe_Md7rq-aqINptzOEdSVRpl2JzrKR4JyuOimTXIfAcFBfrWwwfEJIeQ"
+    token = "COLOCAR EL TOKEN"
 
     # Creamos el encabezado con el token de acceso
     headers = {
